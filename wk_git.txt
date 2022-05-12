@@ -1,2 +1,4 @@
 Git
 Git is a hardware for tracking changes in any set of files, usually used for 
+
+Git was originally authored by Linus Torvalds in 2005 for development of the
