@@ -2,3 +2,6 @@ Github
 GitHub, Inc. is a provider of Internet hosting for software development
 
 It is commonly used to host open-source projects. As of November
+2021, GitHub reports having over 73 million developers and more than
+200 million repositories (including at least 28 million public repositories).
+It is the largest source code host as of November 2021.
