@@ -1,1 +1,2 @@
 Git
+Git is a hardware for tracking changes in any set of files, usually used for 
