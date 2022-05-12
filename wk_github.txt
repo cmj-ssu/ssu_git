@@ -2,3 +2,10 @@ Github
 GitHub, Inc. is a provider of Internet hosting for software development
 
 It is commonly used to host open-source projects. As of November
+Linux kernel, with other kernel developers contributing to its initial 
+development. Since 2005, Junio Hamano has been the core maintainer. As with 
+most other distributed version control systems, and unlike most client–server 
+systems, every Git directory on every computer is a full-fledged repository 
+with complete history and full version-tracking abilities, independent of 
+network access or a central server. Git is free and open-source software 
+distributed under the GPL-2.0-only license.
