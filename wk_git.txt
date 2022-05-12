@@ -2,6 +2,3 @@ Git
 Git is a software for tracking changes in any set of files, usually used for 
 
 Git was originally authored by Linus Torvalds in 2005 for development of the
-2021, GitHub reports having over 73 million developers and more than 
-200 million repositories (including at least 28 million public repositories). 
-It is the largest source code host as of November 2021.
